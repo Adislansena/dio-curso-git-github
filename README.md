@@ -1,7 +1,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Versionamento de Código com Git e GitHub</span>
+    <span> Alteração no arquivo - Versionamento de Código com Git e GitHub</span>
 </h1>
 
 Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio para o curso **Versionamento de Código com Git e GitHub** da [Digital Innovation One](https://www.dio.me/).
@@ -67,7 +67,7 @@ Introduzir ao versionamento de código com Git e GitHub.
   <tfoot></tfoot>
 </table>
 
-## Instrutora
+## Instrutora Ensinou muito bem
 <table>
   <tr>
     <td>
@@ -94,3 +94,11 @@ Introduzir ao versionamento de código com Git e GitHub.
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+
+## Pontos de elogio sobre a aula 
+1. dominio de conteudo
+2.Dinamica 
+
+## Pontos de melhoria
+1.Falar um pouco mais devagar alguns momentos do video  tive que pausar varias vezes
