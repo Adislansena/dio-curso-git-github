@@ -95,10 +95,22 @@ Introduzir ao versionamento de código com Git e GitHub.
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
 
+## Instrutora Ensinou muito bem
+<table>
+  <tr>
+    <td>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/elidianaandrade">
+        <span><b>Pontos de elogio sobre a aula</b></span>
+      </a>
+      <br>
+      </th><span>Dominio de conteúdo</span>
+        <br>
+     <span>Dinamica</span>
+    </td>
+  </tr>
+</table>
 
-## Pontos de elogio sobre a aula 
-1. dominio de conteudo
-2.Dinamica 
 
-## Pontos de melhoria
-1.Falar um pouco mais devagar alguns momentos do video  tive que pausar varias vezes
